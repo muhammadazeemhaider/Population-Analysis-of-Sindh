@@ -1,14 +1,22 @@
 \begin{thebibliography}{1}
 
+\bibitem{bib01}
+{United Nations, DESA, Population Division}.
+\newblock {World Population Prospects 2024}, 2024.
+\newblock {Licensed under Creative Commons CC BY 3.0 IGO}.
+
 \bibitem{bib02}
 {Pakistan Bureau of Statistics}.
 \newblock {7th Population \& Housing Census: Key Findings Report - First Ever
   Digital Census}, 2023.
 \newblock {The Largest Digitization Exercise of South Asia}.
 
-\bibitem{bib01}
-{United Nations, DESA, Population Division}.
-\newblock {World Population Prospects 2024}, 2024.
-\newblock {Licensed under Creative Commons CC BY 3.0 IGO}.
+\bibitem{bib3}
+Asian~Development Bank.
+\newblock Proposed multitranche financing facility: Second power distribution
+  enhancement investment program (project data sheet).
+\newblock
+  \url{https://www.adb.org/sites/default/files/linked-documents/46538-002-efa.pdf}.
+\newblock Accessed: 26-Sep-2024.
 
 \end{thebibliography}
