@@ -17,7 +17,6 @@ September 27, 2024
 
 ## Data Sources
 - Pakistan Census 2023
-- United Nations Population Division projections
 
 ## References
 - United Nations, DESA, Population Division. *World Population Prospects 2024*, 2024.
